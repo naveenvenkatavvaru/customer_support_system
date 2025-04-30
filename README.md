@@ -5,3 +5,5 @@ it has 5 columns
 3) rating
 4) summary
 5) Review
+
+Create a data ingestion pipeline
