@@ -7,3 +7,4 @@ it has 5 columns
 5) Review
 
 Create a data ingestion pipeline
+use openai
